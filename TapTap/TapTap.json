@@ -1,15 +1,15 @@
 {
-  "Author": "XeXo",
-  "Name": "TapTap",
-  "DalamudApiLevel": 8,
-  "Punchline": "A rotation helper plugin",
-  "Description": "A rotation helper that assists you get better at your job",
-  "InternalName": "TapTap",
-  "ApplicableVersion": "any",
-  "IconUrl":  "/Data/taptap.png",
-  "Tags": [
-    "sample",
-    "plugin",
-    "goats"
-  ]
+    "Author": "XeXo",
+    "Name": "TapTap",
+    "DalamudApiLevel": 8,
+    "Punchline": "A rotation helper plugin",
+    "Description": "A rotation helper that assists you get better at your job",
+    "InternalName": "TapTap",
+    "ApplicableVersion": "any",
+    "IconUrl": "https://github.com/Xe-Xo/TapTap/raw/main/Data/taptap.png",
+    "Tags": [
+        "sample",
+        "plugin",
+        "goats"
+    ]
 }
