@@ -5,11 +5,9 @@
     "Punchline": "A rotation helper plugin",
     "Description": "A rotation helper that assists you get better at your job",
     "InternalName": "TapTap",
-    "ApplicableVersion": "any",
-    "IconUrl": "https://github.com/Xe-Xo/TapTap/raw/main/Data/taptap.png",
-    "Tags": [
-        "sample",
-        "plugin",
-        "goats"
-    ]
+    "RepoUrl": "https://github.com/Xe-Xo/TapTap",
+    "IconUrl": "https://i.imgur.com/GgtWfMu.png",
+    "ImageUrls": [ "https://i.imgur.com/GgtWfMu.png" ],
+    "ApplicableVersion": "any"
+
 }
